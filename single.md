@@ -7,3 +7,4 @@
     - no serial
     - do not see other
     - they do late
+    - setTimeout, setInterval, fetch, await, etc
